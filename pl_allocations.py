@@ -4,3 +4,6 @@ print("hello world")
 
 def func(x):
     return x + x
+
+x = 'try again'
+
